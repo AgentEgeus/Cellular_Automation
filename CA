@@ -58,5 +58,3 @@ gen_array_str=map_gen(gen_array)
 
 for k in range(0,input_gen):
     print(''.join(gen_array_str[k,]))
-
-print("today is 5/17/2025")
